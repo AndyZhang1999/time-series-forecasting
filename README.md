@@ -1,3 +1,3 @@
 # time-series-forecasting
 
-Repo for Tianlong Cup Forecasting challenge!!$$$$
+Repo for Tianlong Cup Forecasting challenge!!
